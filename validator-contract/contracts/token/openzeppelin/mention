@@ -1,0 +1,18 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.7.0;
+
+import "@openzeppelin/contracts/utils/Context.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/token/IERC20.sol";
+import "@openzeppelin/contracts/math/SafeMath.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol";
+import "@openzeppelin/contracts/presets/ERC20PresetFixedSupply.sol";
+
+
+OpenZeppelin; 
+      ''The standard for secure blockchain applications. OpenZeppelin provides security products to build, automate, and operate decentralized applications.''
+    It is an advanced and constantly updated project that offers smarts contracts and plugins with enhanced community support based on the Ethereum smart contract.
+  The Valix contract leveraged the above community-tested OpenZeppelin contracts.
+Testing for the contract went smoothly. But we also plan to get a Valid full audit report as the OpenZeppelin Team recommends toes users using contracts.
+
+       Thanks to the Openzeppelin team and everyone who contributed to the contracts.
