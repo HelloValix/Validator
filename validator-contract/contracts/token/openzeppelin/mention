@@ -13,6 +13,6 @@ OpenZeppelin;
       ''The standard for secure blockchain applications. OpenZeppelin provides security products to build, automate, and operate decentralized applications.''
     It is an advanced and constantly updated project that offers smarts contracts and plugins with enhanced community support based on the Ethereum smart contract.
   The Valix contract leveraged the above community-tested OpenZeppelin contracts.
-Testing for the contract went smoothly. But we also plan to get a Valid full audit report as the OpenZeppelin Team recommends toes users using contracts.
+Testing for the contract went smoothly. But we also plan to get a Valid full audit report as the OpenZeppelin, Team recommends toes users using contracts.
 
        Thanks to the Openzeppelin team and everyone who contributed to the contracts.
